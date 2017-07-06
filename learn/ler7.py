@@ -18,3 +18,4 @@ def download(url,num_retries=2):
         file.write(m)
     file.close()
 download("http://www.meetup.com/")
+open()
