@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc2405b5-4985-4e60-8649-3b03062f6c6a" name="Default" comment="TEST ideagit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn/mail.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../what/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../what/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../what/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../what/.idea/what.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../what/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../what/day1.py" />
+    <list default="true" id="bc2405b5-4985-4e60-8649-3b03062f6c6a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn/ler6.py" afterPath="$PROJECT_DIR$/learn/ler6.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn/ler7.py" afterPath="$PROJECT_DIR$/learn/ler7.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mypython/learn/ler6.py" afterPath="$PROJECT_DIR$/../mypython/learn/ler6.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mypython/learn/ler7.py" afterPath="$PROJECT_DIR$/../mypython/learn/ler7.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/learn/ler8.py" afterPath="$PROJECT_DIR$/learn/Ml1.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -119,8 +109,8 @@
       <file leaf-file-name="ler6.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learn/ler6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="209">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -626,7 +616,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TEST ideagit" />
-    <option name="LAST_COMMIT_MESSAGE" value="TEST ideagit" />
+    <MESSAGE value="range" />
+    <option name="LAST_COMMIT_MESSAGE" value="range" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -998,8 +989,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn/ler6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="209">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding />
         </state>
       </provider>
