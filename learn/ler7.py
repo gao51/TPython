@@ -16,6 +16,6 @@ def download(url,num_retries=2):
     return html
     with open(sName, 'wb') as file:
         file.write(m)
-    f  ile.close()
+    file.close()
 download("http://www.meetup.com/")
 open()
