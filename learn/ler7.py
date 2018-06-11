@@ -1,21 +1,9 @@
-# -*-coding:UTF-8-*-
-# _author_= 'gao'
-import urllib2
+import re
 
-
-def download(url,num_retries=2):
-    print 'Downloading:', url
-    try:
-        html = urllib2.urlopen(url).read()
-    except urllib2.URLError as e:
-        print 'Download Error:', e.reason
-        html = None
-        if num_retries>0:
-            if hasattr(e,'code') and 500<=e.code<=600:
-                return download(url,num_retries-1)
-    return html
-    with open(sName, 'wb') as file:
-        file.write(m)
-    file.close()
-download("http://www.meetup.com/")
-open()
+s = "Abcd"
+res = ""
+for i in s:
+    m = ord(i)
+    x = chr(m+3)
+    res = res+x
+x ="daaaasadfaaada哈哈sdabbbb"

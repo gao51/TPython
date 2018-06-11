@@ -1,12 +1,11 @@
-# -*-coding:UTF-8-*-
-# _author_= gao
+class a :
+    def __init__(self):
+        self.a = 2
 
-import json
-
-js = '{"confPriority": 0, "formList": [{"formId": 2}, {"formId": 3}], "maxMultiFormImgCount": -1}'
-j=json.loads(js)
-
-print(j)
-print(type(j))
-
-print(j["formList"][0])
+    def add(self):
+        x = self.a*2
+        print(x)
+x= [3,2,5,4]
+x.sort()
+x.reverse()
+print(x)
