@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc2405b5-4985-4e60-8649-3b03062f6c6a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../FishsayingApiTest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../FishsayingApiTest/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/learn/Ml1.py" afterPath="$PROJECT_DIR$/learn/Ml1.py" />
       <change beforePath="$PROJECT_DIR$/../mypython/learn/ler6.py" afterPath="$PROJECT_DIR$/../mypython/learn/ler6.py" />
       <change beforePath="$PROJECT_DIR$/../mypython/learn/ler7.py" afterPath="$PROJECT_DIR$/../mypython/learn/ler7.py" />
     </list>
@@ -84,10 +82,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ler10.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ler10.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learn/ler10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4104">
+            <state relative-caret-position="3260">
               <caret line="225" column="26" lean-forward="false" selection-start-line="225" selection-start-column="26" selection-end-line="225" selection-end-column="26" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -119,10 +117,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="url_api.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="url_api.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn/gate/url_api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
+            <state relative-caret-position="391">
               <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -588,7 +586,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528707248508</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="range">
+      <created>1528858459358</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1528858459358</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -602,10 +607,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="728" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32517484" sideWeight="0.49387443" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30052724" sideWeight="0.38667688" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2937063" sideWeight="0.61332315" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.124125876" sideWeight="0.61332315" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32342657" sideWeight="0.48786038" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251318" sideWeight="0.49081165" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31634447" sideWeight="0.4757208" order="8" side_tool="false" content_ui="tabs" />
@@ -1023,19 +1029,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn/ler10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4104">
-          <caret line="225" column="26" lean-forward="false" selection-start-line="225" selection-start-column="26" selection-end-line="225" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1528270745300" expanded="true" signature="2292:2414" ph="INSERT into Novel_catalog" />
-            <marker date="1528270745300" expanded="true" signature="2896:2956" ph="SELECT id,ur... Novel_catalog" />
-            <marker date="1528270745300" expanded="true" signature="3758:3847" ph="UPDATE Novel_catalog... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn/ler1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -1062,10 +1055,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn/gate/url_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
+        <state relative-caret-position="391">
           <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/ler10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3260">
+          <caret line="225" column="26" lean-forward="false" selection-start-line="225" selection-start-column="26" selection-end-line="225" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1528270745300" expanded="true" signature="2292:2414" ph="INSERT into Novel_catalog" />
+            <marker date="1528270745300" expanded="true" signature="2896:2956" ph="SELECT id,ur... Novel_catalog" />
+            <marker date="1528270745300" expanded="true" signature="3758:3847" ph="UPDATE Novel_catalog... " />
           </folding>
         </state>
       </provider>
