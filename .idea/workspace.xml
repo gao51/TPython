@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc2405b5-4985-4e60-8649-3b03062f6c6a" name="Default" comment="">
+    <list default="true" id="bc2405b5-4985-4e60-8649-3b03062f6c6a" name="Default" comment="range">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../mypython/learn/ler6.py" afterPath="$PROJECT_DIR$/../mypython/learn/ler6.py" />
       <change beforePath="$PROJECT_DIR$/../mypython/learn/ler7.py" afterPath="$PROJECT_DIR$/../mypython/learn/ler7.py" />
@@ -171,7 +171,7 @@
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RECENT_COMMON_BRANCH" value="xxx" />
+    <option name="RECENT_COMMON_BRANCH" value="aaa" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -593,7 +593,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528858459358</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="range">
+      <created>1528859826190</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1528859826190</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
