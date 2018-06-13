@@ -107,7 +107,7 @@ def start():
             coder("sh600699")
             coder("sh600797")
             coder("sz000973")
-            coder("sh601002")
+            coder("sz002083")
             coder("sz000906")
             coder("sz000018")
             time.sleep(5)
