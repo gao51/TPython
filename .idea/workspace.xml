@@ -82,6 +82,7 @@
           </provider>
         </entry>
       </file>
+
       <file leaf-file-name="ler10.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learn/ler10.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -92,26 +93,31 @@
                 <marker date="1528270745300" expanded="true" signature="2292:2414" ph="INSERT into Novel_catalog" />
                 <marker date="1528270745300" expanded="true" signature="2896:2956" ph="SELECT id,ur... Novel_catalog" />
                 <marker date="1528270745300" expanded="true" signature="3758:3847" ph="UPDATE Novel_catalog... " />
+
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+
       <file leaf-file-name="a.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn/File/a.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1007">
               <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+
       <file leaf-file-name="Ml1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn/Ml1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="33">
               <caret line="109" column="21" lean-forward="false" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
+
               <folding />
             </state>
           </provider>
@@ -125,6 +131,7 @@
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
+
             </state>
           </provider>
         </entry>
@@ -134,6 +141,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3420">
               <caret line="182" column="4" lean-forward="false" selection-start-line="182" selection-start-column="4" selection-end-line="182" selection-end-column="4" />
+
               <folding />
             </state>
           </provider>
@@ -144,6 +152,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
               <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+
               <folding />
             </state>
           </provider>
@@ -172,6 +181,7 @@
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_COMMON_BRANCH" value="aaa" />
+
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -214,6 +224,7 @@
         <option value="$PROJECT_DIR$/learn/ler1.py" />
         <option value="$PROJECT_DIR$/learn/Ml1.py" />
         <option value="$PROJECT_DIR$/learn/gate/url_api.py" />
+
       </list>
     </option>
   </component>
@@ -229,6 +240,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
+
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -269,6 +281,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,6 +299,7 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\code\Tpython\learn" />
     </key>
+
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -301,6 +315,7 @@
   </component>
   <component name="RunManager" selected="Python.url_api">
     <configuration name="Ml1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -319,7 +334,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ler1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -332,13 +347,14 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mypython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/ler1.py" />
+
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="ler10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -352,44 +368,55 @@
       <module name="mypython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/ler10.py" />
+
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+
     <configuration name="ler9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn" />
+      <option name="WORKING_DIRECTORY" value="D:/Python/Lib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mypython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/ler9.py" />
+
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+
     <configuration name="url_api" type="PythonConfigurationType" factoryName="Python" temporary="true">
+
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn/gate" />
+
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mypython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/gate/url_api.py" />
+
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -542,6 +569,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
+
       <item index="0" class="java.lang.String" itemvalue="Python.Ml1" />
       <item index="1" class="java.lang.String" itemvalue="Python.ler10" />
       <item index="2" class="java.lang.String" itemvalue="Python.ler9" />
@@ -555,6 +583,7 @@
         <item index="2" class="java.lang.String" itemvalue="Python.ler1" />
         <item index="3" class="java.lang.String" itemvalue="Python.ler10" />
         <item index="4" class="java.lang.String" itemvalue="Python.ler9" />
+
       </list>
     </recent_temporary>
   </component>
@@ -572,6 +601,7 @@
       <option name="presentableId" value="Default" />
       <updated>1496420733130</updated>
     </task>
+
     <task id="LOCAL-00001" summary="TEST ideagit">
       <created>1499444696536</created>
       <option name="number" value="00001" />
@@ -599,6 +629,7 @@
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
       <updated>1528859826190</updated>
+
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
@@ -613,6 +644,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+
     <frame x="0" y="0" width="1366" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
@@ -629,13 +661,13 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961714" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39718804" sideWeight="0.49081165" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27182236" sideWeight="0.534632" order="2" side_tool="true" content_ui="tabs" />
+
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26010546" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -693,14 +725,42 @@
       </map>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="TEST ideagit" />
     <MESSAGE value="range" />
     <option name="LAST_COMMIT_MESSAGE" value="range" />
+
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -709,6 +769,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+
     <entry file="das://table:/ba32afaa/0f62417a-0b58-49de-933f-2498430dc1db/db_content.cms_article_image_text">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -734,13 +795,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+
         </state>
       </provider>
     </entry>
     <entry file="das://src:table:/ba32afaa/bbf2a616-7f34-41f9-bac3-8ca964e1a7c3/content.stu">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="19">
           <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+
         </state>
       </provider>
     </entry>
@@ -789,6 +853,7 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/bbf2a616-7f34-41f9-bac3-8ca964e1a7c3/console_1.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
+
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
@@ -818,6 +883,7 @@
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+
         </state>
       </provider>
     </entry>
@@ -837,8 +903,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn/ser2.py">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="228">
           <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+
         </state>
       </provider>
     </entry>
@@ -846,6 +914,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="722">
           <caret line="42" column="46" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="46" />
+
         </state>
       </provider>
     </entry>
@@ -860,6 +929,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="722">
           <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+
         </state>
       </provider>
     </entry>
@@ -888,6 +958,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="34" column="15" lean-forward="false" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+
         </state>
       </provider>
     </entry>
@@ -900,8 +971,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn/ler4.py">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="228">
           <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+
         </state>
       </provider>
     </entry>
@@ -930,8 +1003,10 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/nntplib.py">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="1067">
           <caret line="852" column="8" lean-forward="false" selection-start-line="852" selection-start-column="8" selection-end-line="852" selection-end-column="8" />
+
         </state>
       </provider>
     </entry>
@@ -944,6 +1019,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn/novel_catalog.py">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="-285">
           <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
         </state>
@@ -967,6 +1043,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+
         </state>
       </provider>
     </entry>
@@ -985,6 +1062,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learn/File/wddd.txt">
+
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -995,6 +1073,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6441">
           <caret line="339" column="4" lean-forward="false" selection-start-line="339" selection-start-column="4" selection-end-line="339" selection-end-column="4" />
+
         </state>
       </provider>
     </entry>
@@ -1017,6 +1096,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
           <caret line="41" column="29" lean-forward="false" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+
           <folding />
         </state>
       </provider>
@@ -1032,6 +1112,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1007">
           <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+
           <folding />
         </state>
       </provider>
@@ -1040,6 +1121,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+
           <folding />
         </state>
       </provider>
@@ -1048,6 +1130,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3420">
           <caret line="182" column="4" lean-forward="false" selection-start-line="182" selection-start-column="4" selection-end-line="182" selection-end-column="4" />
+
           <folding />
         </state>
       </provider>
@@ -1056,6 +1139,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
           <caret line="109" column="21" lean-forward="false" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
+
           <folding />
         </state>
       </provider>
@@ -1079,6 +1163,7 @@
             <marker date="1528270745300" expanded="true" signature="2292:2414" ph="INSERT into Novel_catalog" />
             <marker date="1528270745300" expanded="true" signature="2896:2956" ph="SELECT id,ur... Novel_catalog" />
             <marker date="1528270745300" expanded="true" signature="3758:3847" ph="UPDATE Novel_catalog... " />
+
           </folding>
         </state>
       </provider>
